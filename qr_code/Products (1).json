@@ -1,0 +1,171 @@
+[
+    {
+        "product_name": "Spiro Spatis",
+        "description": "Cola",
+        "picture_url": "https://example.com/coca-cola-classic.jpg",
+        "price": 13.5,
+        "currency": "Egyptian pound",
+        "brand_id": 1,
+        "category_id": 1,
+        "code": "6223001360063"
+    },
+    {
+        "product_name": "Betty Orange Juice",
+        "description": "Fruit juice",
+        "picture_url": "https://example.com/tropicana-orange-juice.jpg",
+        "price": 3.49,
+        "currency": "USD",
+        "brand_id": 2,
+        "category_id": 1,
+        "code": "5449000000996"
+    },
+    {
+        "product_name": "Everyday Mango Juice",
+        "description": "Fruit juice",
+        "picture_url": "https://example.com/tropicana-orange-juice.jpg",
+        "price": 3.49,
+        "currency": "USD",
+        "brand_id": 2,
+        "category_id": 1,
+        "code": "6223006311480"
+    },
+    {
+        "product_name": "Starbucks Pike Place Roast",
+        "description": "Coffee",
+        "picture_url": "https://example.com/starbucks-pike-place-roast.jpg",
+        "price": 5.99,
+        "brand_id": 3,
+        "category_id": 1,
+        "code": "CHKN-702"
+    },
+    {
+        "product_name": "Lipton Green Tea",
+        "description": "Tea",
+        "picture_url": "https://example.com/lipton-green-tea.jpg",
+        "price": 2.99,
+        "currency": "USD",
+        "brand_id": 4,
+        "category_id": 1,
+        "code": "CHKN-703"
+    },
+    {
+        "product_name": "Perrier Sparkling Water",
+        "description": "Mineral water",
+        "picture_url": "https://example.com/perrier-sparkling-water.jpg",
+        "price": 1.49,
+        "currency": "Pounds",
+        "brand_id": 5,
+        "category_id": 1,
+        "code": "CHKN-704"
+    },
+    {
+        "product_name": "Budweiser",
+        "description": "Beer",
+        "picture_url": "https://example.com/budweiser.jpg",
+        "price": 6.99,
+        "currency": "Pounds",
+        "brand_id": 6,
+        "category_id": 1,
+        "code": "CHKN-705"
+    },
+    {
+        "product_name": "Pepsi Cans",
+        "description": " drinks",
+        "picture_url": "https://example.com/red-bull-energy-drink.jpg",
+        "price": 3.99,
+        "currency": "Pounds",
+        "brand_id": 7,
+        "category_id": 1,
+        "code": "6223001361732"
+    },
+    {
+        "product_name": "Schweppes Cans ",
+        "description": " drinks",
+        "picture_url": "https://example.com/red-bull-energy-drink.jpg",
+        "price": 3.99,
+        "currency": "Pounds",
+        "brand_id": 7,
+        "category_id": 1,
+        "code": "5449000222299"
+    },
+    {
+        "product_name": "Gatorade",
+        "description": "Sports drink",
+        "picture_url": "https://example.com/gatorade.jpg",
+        "price": 2.49,
+        "currency": "Pounds",
+        "brand_id": 8,
+        "category_id": 1,
+        "code": "CHKN-707"
+    },
+    {
+        "product_name": "Nestea Iced Tea",
+        "description": "Ready-to-drink iced tea",
+        "picture_url": "https://example.com/nestea-iced-tea.jpg",
+        "price": 1.99,
+        "currency": "Pounds",
+        "brand_id": 9,
+        "category_id": 1,
+        "code": "CHKN-708"
+    },
+    {
+        "product_name": "Evian Natural Spring Water",
+        "description": "Bottled water",
+        "picture_url": "https://example.com/evian-natural-spring-water.jpg",
+        "price": 2.29,
+        "currency": "Pounds",
+        "brand_id": 10,
+        "category_id": 1,
+        "code": "CHKN-709"
+    },
+    {
+        "product_name": "Tomato Chips",
+        "description": "Potato chips",
+        "picture_url": "https://example.com/lays-classic-potato-chips.jpg",
+        "price": 7.0,
+        "currency": "Pounds",
+        "brand_id": 11,
+        "category_id": 2,
+        "code": "6221031490149"
+    },
+    {
+        "product_name": "cheese Chips",
+        "description": "Potato chips",
+        "picture_url": "https://example.com/lays-classic-potato-chips.jpg",
+        "price": 7.0,
+        "currency": "Pounds",
+        "brand_id": 11,
+        "category_id": 2,
+        "code": "6221031000669"
+    },
+    {
+        "product_name": "Oreo Cookies",
+        "description": "Sandwich cookies",
+        "picture_url": "https://example.com/oreo-cookies.jpg",
+        "price": 2.99,
+        "currency": "Pounds",
+        "brand_id": 12,
+        "category_id": 2,
+        "code": "7622202016141"
+    },
+    {
+        "product_name": "Snickers",
+        "description": "Chocolate bar",
+        "picture_url": "https://example.com/snickers.jpg",
+        "price": 1.49,
+        "currency": "Pounds",
+        "brand_id": 13,
+        "category_id": 2,
+        "code": "CHKN-712"
+    },
+    {
+        "product_name": "Doritos Nacho Cheese",
+        "description": "Tortilla chips",
+        "picture_url": "https://example.com/doritos-nacho-cheese.jpg",
+        "price": 2.29,
+        "currency": "Pounds",
+        "brand_id": 14,
+        "category_id": 2,
+        "code": "6221031001284"
+    }
+]
